@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # UniversityDBMS
+=======
+# Transliteration
+>>>>>>> origin/master
 
 ### Description
 
